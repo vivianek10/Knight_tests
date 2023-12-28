@@ -1,0 +1,13 @@
+;Doméstico;;;
+;ORÇAMENTO;;;
+;TIPO DE DESPESA;QUANTIA;PESSOAS;STATUS
+;Condomínio;R$ 1.000,00;Manuela;Atrasado
+;Luz;R$ 350,00;Luiz;Em dia
+;Gás;R$ 200,00;Viviane;Atrasado
+;Iptu;R$ 200,00;Manuela;Em dia
+;Wifi;R$ 159,00;Luiz;Atrasado
+;Celular;R$ 310,00;Viviane;Em dia
+;Plano de saúde;R$ 2.500,00;Luiz;Atrasado
+;Contador;R$ 1.200,00;Viviane;Em dia
+;Supermercado;R$ 3.000,00;Luiz;Em dia
+;Total;R$ 8.919,00;;
